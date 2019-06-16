@@ -1,7 +1,5 @@
 # Link layer simulation : Distance vector routing protocol
 
-# IT IS NOT A COMPLETE PROJECT
-
 #  DVR Implementation
 
 ## 1 Introduction
@@ -355,20 +353,12 @@ converged, ‘bye again’ will reach destination following this path: 1 -〉3 -
 8. If you invoke up command and send the previous message, the message
     will reach destination using the former path i.e. 1 -〉2 -〉4.
 
-## 8 Marks Distribution
 
-```
-Tasks Marks
-Construction of the initial routing table and showing it 20
-Routing table update on cost change 20
-Routing table update on link update 20
-Packet forwarding 20
-Coding style, use of correct data structures, memory management 20
-Total 100
-```
-## 9 Acknoledgement
+
+## 8 Acknoledgement
 
 - Nazmus Saquib, Lecturer, Department of CSE, BUET
+- This project is done for CSE322 : https://github.com/lsiddiqsunny/CSE-322-Computer-Networks-Sessional/
 
 
 
