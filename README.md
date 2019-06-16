@@ -1,4 +1,4 @@
-# Link layer simulation : Distance vector routing protocol
+# Network layer simulation : Distance vector routing protocol
 
 #  DVR Implementation
 
